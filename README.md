@@ -1,8 +1,8 @@
 ## Tarea repaso
 
-![Diagrama de clases](/home/dam/Documentos/COD/DiagramaClasesBol17.drawio.png)
+![Diagrama de clases](https://github.com/Ayesa14/Repaso23/blob/main/DiagramFlujoBol17.drawio.png)
 
-![Diagrama de flujo](/home/dam/Documentos/COD/DiagramFlujoBol17.drawio.png)
+![Diagrama de flujo](https://github.com/Ayesa14/Repaso23/blob/main/DiagramaClasesBol17.drawio.png)
 
 1. Generamos el .jar del programa, para ello:
 
